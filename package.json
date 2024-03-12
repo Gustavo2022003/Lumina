@@ -2,7 +2,7 @@
   "name": "lumina-theme-dark",
   "displayName": "Lumina theme",
   "description": "A minimalist design theme meticulously crafted by a developer, designer, for fellow developers.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "Gustavo2022003",
   "repository": {
     "type": "git",
@@ -32,7 +32,7 @@
   "contributes": {
     "themes": [
       {
-        "label": " sea of code, keeping you on track and productive.",
+        "label": "Lumina Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Lumina.json"
       }
